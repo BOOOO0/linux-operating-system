@@ -3,7 +3,7 @@
 int odd_sum(int *nums){
 	int sum = 0;
 	int *p;
-	for(p = nums ; *p ; p++){
+	for(p = nums ; p < nums+10 ; p++){
 		if(*p % 2 != 0){
 			sum += *p;
 		}
