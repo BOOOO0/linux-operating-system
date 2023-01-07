@@ -1,23 +1,6 @@
+# 리눅스 기본
+
+- [셸 스크립트 프로그래밍 기본](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/shell-script/shell-basic)
+- [파일 속성, 파일 허가권 변경](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/shell-script/file-attribute)
+
 # 리눅스 환경에서 C언어 문제 풀이
-
-## GCC
-
-- C 컴파일을 위한 리눅스 패키지
-
-- 설치 가능한 패키지 리스트 최신화 `sudo apt update`
-
-- 패키지 업데이트 `sudo apt upgrade`
-
-- gcc 설치 `sudo apt install gcc`
-
-- 컴파일해서 출력 파일 만들기 `gcc -o [생성할 파일 이름] [c파일 이름]`
-
-- 출력 파일 실행하기 `./[생성된 출력 파일]`
-
-## tree
-
-- 디렉토리 구조를 트리 형태로 보여주는 명령어입니다.
-
-- `sudo apt install tree`로 설치합니다.
-
-- 명령어는 `tree`만 입력하면 현재 디렉토리를 루트로 하여 트리 형태로 하위 디렉토리 구조를 보여줍니다.
