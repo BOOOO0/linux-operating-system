@@ -4,7 +4,7 @@
 - [파일 속성, 파일 허가권 변경](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/shell-script/file-attribute)
 - [정규 표현식](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/regular-expression)
 - [tar, gzip](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/tar-gzip)
-- [ls](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/ls-option)
+- [ls](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/ls)
 - [awk](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/awk)
 - [basename](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/basename)
 - [tr](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/tr)
