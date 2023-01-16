@@ -10,9 +10,4 @@
 - [tr](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/tr)
 - [wc](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/wc)
 
-# 리눅스 환경에서 C언어 문제 풀이
-
-# git 명령어
-
-- [git log --pretty](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/git-log-pretty)
-- [git ls-files](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/git-ls-files)
+# Operating System
