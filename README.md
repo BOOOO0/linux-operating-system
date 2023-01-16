@@ -11,3 +11,6 @@
 - [wc](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/wc)
 
 # Operating System
+
+- [fork](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/fork-child-process)
+- [wait](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/wait)
