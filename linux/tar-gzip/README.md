@@ -38,3 +38,5 @@
   -rw-r--r--  1 bchung  2023_seoul    335  1 10 12:45 ab.gzip
   -rw-r--r--  1 bchung  2023_seoul  26112  1 10 12:45 ab.tar
   ```
+
+- gzip 파일의 압축 해제 방법은 `gunzip [파일명]`입니다.
