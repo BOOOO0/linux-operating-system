@@ -10,6 +10,7 @@
 - [tr](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/tr)
 - [wc](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/wc)
 - [find](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/find)
+- [date](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/date)
 
 # Operating System
 
