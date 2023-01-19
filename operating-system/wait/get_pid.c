@@ -12,6 +12,7 @@ int main(){
         printf("child: pid1 = %d\n", pid1);
     }
     else if(pid > 0){
+        wait(NULL);
         pid1 = getpid();
         printf("parent: pid = %d\n", pid);
         printf("parent: pid1 = %d\n", pid1);
