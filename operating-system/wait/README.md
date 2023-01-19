@@ -30,3 +30,9 @@
 - `getpid()`는 프로세스 자신의 pid를 반환합니다. get_pid.c 파일에서 parent의 pid와 child의 pid1은 같은 값을 가져야 합니다.
 
 - ![image](../img/get_pid.JPG)
+
+## global_var_wait2.c
+
+- 자식 프로세스에서 전역 변수의 값이 변경되고 출력되는 일련의 과정을 거쳐 종료된 후 부모 프로세스가 전역 변수를 출력하는 명령을 수행할 때 전역 변수의 값은 변경되지 않는 것을 다시 한번 확인할 수 있습니다.
+
+- ![image](../img/global_var_wait2.JPG)
