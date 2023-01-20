@@ -5,6 +5,7 @@
 - [파일의 종류](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/type-of-files)
 - [리눅스 내 대표적인 디렉토리](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/directories)
 - [패키지 매니저 apt](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/apt)
+- [i-node](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/i-node-link)
 - [정규 표현식](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/regular-expression)
 - [tar, gzip](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/tar-gzip)
 - [ls](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/ls)
