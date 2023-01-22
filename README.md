@@ -1,7 +1,5 @@
 # 리눅스 기본
 
-- [셸 스크립트 프로그래밍 기본](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/shell-script/shell-basic)
-- [파일 속성, 파일 허가권 변경](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/shell-script/file-attribute)
 - [파일의 종류](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/type-of-files)
 - [리눅스 내 대표적인 디렉토리](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/directories)
 - [/etc/passwd](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/etc-passwd)
