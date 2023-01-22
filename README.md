@@ -4,6 +4,8 @@
 - [파일 속성, 파일 허가권 변경](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/shell-script/file-attribute)
 - [파일의 종류](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/type-of-files)
 - [리눅스 내 대표적인 디렉토리](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/directories)
+- [/etc/passwd](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/etc-passwd)
+- [사용자 추가, 제거](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/add-user)
 - [패키지 매니저 apt](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/apt)
 - [i-node](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/i-node-link)
 - [정규 표현식](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/regular-expression)
