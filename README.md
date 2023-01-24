@@ -1,6 +1,7 @@
 # 리눅스 기본
 
 - [파일의 종류](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/type-of-files)
+- [i-node](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/i-node-link)
 - [리눅스 내 대표적인 디렉토리](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/directories)
 - [/etc/passwd](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/etc-passwd)
 - [사용자 추가, 제거](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/add-user)
@@ -11,8 +12,12 @@
 - [프로세스 목록 조회, 구조 파악하기](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/process-status)
 - [시그널](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/signal)
 - [시그널로 프로세스 종료](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/sig_kill)
+- [출력 리디렉션](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/output-redirection)
+- [추가 모드 리디렉션](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/output-redirection-additional)
+- [입력 리디렉션](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/input-redirection)
+- [Here Documents](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/here-documents)
+- [Here Strings](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/here-strings)
 - [패키지 매니저 apt](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/apt)
-- [i-node](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/i-node-link)
 - [정규 표현식](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/regular-expression)
 
 # 리눅스 커맨드
