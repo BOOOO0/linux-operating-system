@@ -34,3 +34,9 @@
 
 - [fork](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/fork-child-process)
 - [wait](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/wait)
+- [IPC](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/ipc)
+    - [공유 메모리 방식](/operating-system/ipc/README.md#공유-메모리-방식)
+    - [메세지 패싱 방식](/operating-system/ipc/README.md#메세지-패싱)
+    - [직접 커뮤니케이션](/operating-system/ipc/README.md#직접-커뮤니케이션)
+    - [간접 커뮤니케이션](/operating-system/ipc/README.md#간접-커뮤니케이션)
+    - [블로킹(동기) 방식과 논블로킹(비동기) 방식](/operating-system/ipc/README.md#구현에서의-디자인-옵션)
