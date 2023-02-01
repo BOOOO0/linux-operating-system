@@ -41,3 +41,4 @@
     - [간접 커뮤니케이션](/operating-system/ipc/README.md#간접-커뮤니케이션)
     - [블로킹(동기) 방식과 논블로킹(비동기) 방식](/operating-system/ipc/README.md#구현에서의-디자인-옵션)
 - [IPC System](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/ipc-system)
+    - [POSIX 공유 메모리 통신 구현](/operating-system/ipc-system/README.md#posix-shared-memory)
