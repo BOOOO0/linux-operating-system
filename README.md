@@ -32,6 +32,10 @@
 
 # Operating System
 
+- [open](/operating-system/open/README.md)
+- [close](/operating-system/close/README.md)
+- [write](/operating-system/write/README.md)
+- [read](/operating-system/read/README.md)
 - [fork](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/fork-child-process)
 - [wait](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/wait)
 - [IPC](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/ipc)
