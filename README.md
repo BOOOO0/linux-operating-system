@@ -47,3 +47,4 @@
 - [IPC System](https://github.com/BOOOO0/linux-operating-system/tree/main/operating-system/ipc-system)
     - [POSIX 공유 메모리 통신 구현](/operating-system/ipc-system/README.md#posix-shared-memory)
     - [파이프 구현](/operating-system/ipc-system/README.md#파이프pipes)
+    - [pipe](/operating-system//ipc-system/README.md#pipe)
