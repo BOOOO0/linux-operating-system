@@ -55,3 +55,6 @@
     - [자바에서의 스레드](/operating-system/thread/README.md#자바에서의-스레드)
     - [스레드의 대기(join)](/operating-system/thread/README.md#부모-스레드의-대기-join)
     - [스레드의 종료(interrupt)](/operating-system/thread/README.md#스레드의-종료-interrupt)
+- [멀티 코어 시스템에서의 프로그래밍](/operating-system/multi-core-system/README.md)
+    - [멀티 코어 시스템에서 프로그래머가 갖춰야할 점](/operating-system/multi-core-system/README.md#멀티-코어-시스템에서-프로그래머가-갖춰야할-점)
+    - [암달의 법칙](/operating-system/multi-core-system/README.md#암달의-법칙-amdahls-law)
