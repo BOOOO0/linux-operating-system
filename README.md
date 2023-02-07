@@ -58,3 +58,5 @@
 - [멀티 코어 시스템에서의 프로그래밍](/operating-system/multi-core-system/README.md)
     - [멀티 코어 시스템에서 프로그래머가 갖춰야할 점](/operating-system/multi-core-system/README.md#멀티-코어-시스템에서-프로그래머가-갖춰야할-점)
     - [암달의 법칙](/operating-system/multi-core-system/README.md#암달의-법칙-amdahls-law)
+- [멀티 스레딩](/operating-system/multi-threading/README.md)
+    - [Pthreads](/operating-system/multi-threading/README.md#pthreads)
