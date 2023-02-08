@@ -63,3 +63,4 @@
     - [프로세스의 생성과 스레드 생성의 차이](/operating-system/multi-threading/README.md#프로세스의-생성과-스레드-생성의-차이)
     - [암묵적 스레딩](/operating-system/multi-threading/README.md#암묵적-스레딩)
         - [openMP](/operating-system/multi-threading/README.md#openmp)
+    - [프로세스, 스레드 생성 연습문제](/operating-system/multi-threading/README.md#연습문제)
