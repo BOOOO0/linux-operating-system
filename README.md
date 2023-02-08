@@ -60,3 +60,4 @@
     - [암달의 법칙](/operating-system/multi-core-system/README.md#암달의-법칙-amdahls-law)
 - [멀티 스레딩](/operating-system/multi-threading/README.md)
     - [Pthreads](/operating-system/multi-threading/README.md#pthreads)
+    - [프로세스의 생성과 스레드 생성의 차이](/operating-system/multi-threading/README.md#프로세스의-생성과-스레드-생성의-차이)
