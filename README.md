@@ -33,6 +33,9 @@
 - [tail](/linux-command//tail/README.md)
 - [nl](/linux-command/nl/README.md)
 
+# 리눅스 시스템 커맨드
+
+- [ps](/linux-system-command/ps/README.md)
 
 # Operating System
 
