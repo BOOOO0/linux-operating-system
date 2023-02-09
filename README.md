@@ -29,6 +29,10 @@
 - [wc](https://github.com/BOOOO0/linux-shell-c-expert/tree/main/linux/wc)
 - [find](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/find)
 - [date](https://github.com/BOOOO0/linux-operating-system/tree/main/linux/date)
+- [head](/linux-command/head/README.md)
+- [tail](/linux-command//tail/README.md)
+- [nl](/linux-command/nl/README.md)
+
 
 # Operating System
 
