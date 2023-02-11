@@ -32,6 +32,7 @@
 - [head](/linux-command/head/README.md)
 - [tail](/linux-command//tail/README.md)
 - [nl](/linux-command/nl/README.md)
+- [sort](/linux-command/sort/README.md)
 
 # 리눅스 시스템 커맨드
 
