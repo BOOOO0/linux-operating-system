@@ -36,6 +36,8 @@
 # 리눅스 시스템 커맨드
 
 - [ps](/linux-system-command/ps/README.md)
+- [top](/linux-system-command/top/README.md)
+- [lsof](/linux-system-command/lsof/README.md)
 
 # Operating System
 
