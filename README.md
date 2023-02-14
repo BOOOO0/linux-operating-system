@@ -39,6 +39,7 @@
 - [ps](/linux-system-command/ps/README.md)
 - [top](/linux-system-command/top/README.md)
 - [lsof](/linux-system-command/lsof/README.md)
+- [netstat](/linux-system-command/netstat/README.md)
 
 # Operating System
 
