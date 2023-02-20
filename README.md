@@ -80,3 +80,4 @@
     - [스케줄링 기준](/operating-system/cpu-scheduling/scheduling-criteria/README.md)
     - [스케줄링 알고리즘](/operating-system/cpu-scheduling/scheduling-algorithm/README.md)
         - [FCFS](/operating-system/cpu-scheduling/scheduling-algorithm/fcfs/README.md)
+        - [SJF](/operating-system/cpu-scheduling/scheduling-algorithm/sjf/README.md)
