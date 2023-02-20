@@ -76,4 +76,5 @@
     - [암묵적 스레딩](/operating-system/multi-threading/README.md#암묵적-스레딩)
         - [openMP](/operating-system/multi-threading/README.md#openmp)
     - [프로세스, 스레드 생성 연습문제](/operating-system/multi-threading/README.md#연습문제)
-- [CPU 스케줄러](/operating-system/cpu-scheduling/basic-concept/)
+- [CPU 스케줄러](/operating-system/cpu-scheduling/basic-concept/README.md)
+    - [스케줄링 기준](/operating-system/cpu-scheduling/scheduling-criteria/README.md)
