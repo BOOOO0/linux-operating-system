@@ -78,3 +78,4 @@
     - [프로세스, 스레드 생성 연습문제](/operating-system/multi-threading/README.md#연습문제)
 - [CPU 스케줄러](/operating-system/cpu-scheduling/basic-concept/README.md)
     - [스케줄링 기준](/operating-system/cpu-scheduling/scheduling-criteria/README.md)
+    - [스케줄링 알고리즘](/operating-system/cpu-scheduling/scheduling-algorithm/README.md)
