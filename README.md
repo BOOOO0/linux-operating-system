@@ -82,3 +82,4 @@
         - [FCFS](/operating-system/cpu-scheduling/scheduling-algorithm/fcfs/README.md)
         - [SJF](/operating-system/cpu-scheduling/scheduling-algorithm/sjf/README.md)
         - [SRTF](/operating-system/cpu-scheduling/scheduling-algorithm/srtf/README.md)
+        - [Round-Robin](/operating-system/cpu-scheduling/scheduling-algorithm/rr/README.md)
