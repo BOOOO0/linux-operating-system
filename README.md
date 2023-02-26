@@ -85,3 +85,7 @@
         - [Round-Robin](/operating-system/cpu-scheduling/scheduling-algorithm/rr/README.md)
         - [Priority Base](/operating-system/cpu-scheduling/scheduling-algorithm/priority-base/README.md)
         - [MLQ](/operating-system/cpu-scheduling/scheduling-algorithm/mlq/README.md)
+
+- [스토리지](/operating-system/storage/README.md)
+    - [HDD](/operating-system/storage/hdd/README.md)
+        -[HDD 스케줄링](/operating-system/storage/hdd/README.md#하드-디스크-스케줄링)
