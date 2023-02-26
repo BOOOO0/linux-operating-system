@@ -84,3 +84,4 @@
         - [SRTF](/operating-system/cpu-scheduling/scheduling-algorithm/srtf/README.md)
         - [Round-Robin](/operating-system/cpu-scheduling/scheduling-algorithm/rr/README.md)
         - [Priority Base](/operating-system/cpu-scheduling/scheduling-algorithm/priority-base/README.md)
+        - [MLQ](/operating-system/cpu-scheduling/scheduling-algorithm/mlq/README.md)
