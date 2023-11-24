@@ -68,3 +68,6 @@
 
 - ssh의 config 파일로 root 유저에 대한 SSH 불허 등의 옵션을 작성하는 등 configuration이 가능하다.
 
+#### `mkdir -p`
+
+- `mkdir -p /home/user01/dirA/dirB/dirC`와 같이 dirC를 생성하는데 dirA, dirB가 존재하지 않는 경우 생성하려는 dirC의 부모 디렉토리인 dirA, dirB를 생성한다.
