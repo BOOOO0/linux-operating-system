@@ -31,3 +31,13 @@
 - ![image](../img/process-synchronization3.PNG)
 
 - 이러한 문제 상황을 `경쟁 상태(Race Condition)`라고 부릅니다.
+
+- ![image](../img/javaRaceCondition.PNG)
+
+- Java로 경쟁 상태 확인
+
+# 경쟁 상태 또다른 예시
+
+- ![image](../img/forkRaceCondition.PNG)
+
+- 위와 같이 서로 다른 프로세스가 동시에 자식 프로세스의 pid를 요청해서 하나의 pid 값을 서로 가지려는 상황도 경쟁 상태의 한 예시이다. Available PIDs도 공유 데이터라고 볼 수 있기 때문이다.
