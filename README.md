@@ -87,6 +87,8 @@
         - [MLQ](/operating-system/cpu-scheduling/scheduling-algorithm/mlq/README.md)
 - [프로세스 동기화](/operating-system/process-synchronization/README.md)
     - [프로세스간 공유 데이터의 불일치](/operating-system/process-synchronization/README.md#생산자-소비자-문제에서의-데이터-불일치의-확인)
+    - [경쟁 상태](/operating-system/process-synchronization/race-condition/README.md)
+    - [Mutex, Semaphore](/operating-system/process-synchronization/mutex-semaphore/README.md)
 - [스토리지](/operating-system/storage/README.md)
     - [HDD](/operating-system/storage/hdd/README.md)
         - [HDD 스케줄링](/operating-system/storage/hdd/README.md#하드-디스크-스케줄링)
